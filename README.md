@@ -1,0 +1,2 @@
+# CS131_ComputerScience1-Honors
+This repository is a consolidation of labs from my ***CS131 - Computer Science I C++ with Honors*** class at *Everett Community College*. Labs from other repositories have been pushed to this repository as subtrees using `git subtree add` to help declutter my GitHub profile.
